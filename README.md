@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitesh Kumar Roy</h1>
 <h3 align="center">Hi, I'm Hitesh Kumar Roy - a passionate Full Stack Developer and AI Engineer, always excited to build intelligent systems that make technology more human-centered. I love blending AI/ML with modern web technologies to create impactful, real-world solutions.</h3>
 
-- 🔭 I’m currently working on [Smart-Autonomus-Driving-Assistance-System-IDAS](https://github.com/hitwesh/Smart-Autonomus-Driving-Assistance-System-IDAS.git)
+- 🔭 I’m currently working on [StreamIt](https://github.com/hitwesh/streamit.git)
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch**
 
