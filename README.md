@@ -18,9 +18,9 @@
 	<img src="https://img.shields.io/github/stars/hitwesh?style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </div>
 
-<img align="right" alt="Coding" width="390" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## About Me
+
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left">
 Hi, I'm Hitesh Kumar Roy - a passionate Full Stack Developer and AI Engineer, always excited to build intelligent systems that make technology more human-centered. I love blending AI/ML with modern web technologies to create impactful, real-world solutions.
@@ -39,6 +39,8 @@ class HiteshKumarRoy:
 		def say_hi(self):
 				print("Thanks for dropping by! Let's build something amazing together!")
 ```
+
+<br clear="right"/>
 
 ## Quick Facts
 
