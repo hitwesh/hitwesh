@@ -156,6 +156,18 @@ class HiteshKumarRoy:
 
 ---
 
+### GitHub Snake
+
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitwesh/hitwesh/output/github-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitwesh/hitwesh/output/github-snake.svg" />
+		<img alt="github-snake" src="https://raw.githubusercontent.com/hitwesh/hitwesh/output/github-snake.svg" />
+	</picture>
+</div>
+
+---
+
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
