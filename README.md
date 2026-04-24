@@ -125,11 +125,18 @@ class HiteshKumarRoy:
 	<img src="https://streak-stats.demolab.com?user=hitwesh&theme=tokyonight&hide_border=true&background=0D1117&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" width="100%" alt="GitHub Streak Stats" />
 </div>
 
-## Featured Project
+## Featured Projects
 
 <div align="center">
 	<a href="https://github.com/hitwesh/streamit.git">
-		<img width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitwesh&repo=streamit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="StreamIt" />
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitwesh&repo=streamit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="StreamIt" />
+	</a>
+	<a href="https://github.com/hitwesh/PrivaLoom.git">
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitwesh&repo=PrivaLoom&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PrivaLoom" />
+	</a>
+	<br/>
+	<a href="https://github.com/hitwesh/Sympto-Scan.git">
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hitwesh&repo=Sympto-Scan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sympto-Scan" />
 	</a>
 </div>
 
